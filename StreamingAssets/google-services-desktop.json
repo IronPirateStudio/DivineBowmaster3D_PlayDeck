@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033347963843",
+    "project_id": "divine-bowmasters-3d",
+    "storage_bucket": "divine-bowmasters-3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033347963843:android:0cac28213a02a8ad75fb76",
+        "android_client_info": {
+          "package_name": "com.divine.bowmasters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlWWcEatzthM9oIBHspMDGPyF1IQ0sGe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
